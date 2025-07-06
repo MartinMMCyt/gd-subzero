@@ -1,7 +1,7 @@
 {
     "companyName": "DefaultCompany",
     "productName": "Geometry Dash subzero",
-    "productVersion": "0.1",
+    "productVersion": "1.3",
     "dataUrl": "Build/geometrysubzero.data.unityweb",
     "wasmCodeUrl": "Build/geometrysubzero.wasm.code.unityweb",
     "wasmFrameworkUrl": "geometrysubzero.wasm.framework.unityweb",
