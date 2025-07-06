@@ -2,9 +2,9 @@
     "companyName": "DefaultCompany",
     "productName": "Geometry Dash subzero",
     "productVersion": "0.1",
-    "dataUrl": "https://lolygames.github.io/gd-zubero/Build/geometrysubzero.data.unityweb",
-    "wasmCodeUrl": "https://lolygames.github.io/gd-zubero/Build/geometrysubzero.wasm.code.unityweb",
-    "wasmFrameworkUrl": "https://lolygames.github.io/gd-zubero/Build/geometrysubzero.wasm.framework.unityweb",
+    "dataUrl": "Build/geometrysubzero.data.unityweb",
+    "wasmCodeUrl": "Build/geometrysubzero.wasm.code.unityweb",
+    "wasmFrameworkUrl": "geometrysubzero.wasm.framework.unityweb",
     "graphicsAPI": [
         "WebGL 2.0",
         "WebGL 1.0"
